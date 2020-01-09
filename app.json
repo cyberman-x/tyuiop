@@ -24,15 +24,15 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "1120232"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "5b0bb06d24f0d6dd905650d30e96038a"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally",
-      "value": ""
+      "value": "1BVtsOGQBu6qAEVt2Zy-60cCgrRVbXBEVsPsf9Hr5IbuLy8xSi7o7axdUVm0jFCE7GDUvLI1BvStziepIEzxlEhF36F4yrpThe7YrxI_Tl3GF2hs4Q7hvo1XVhIHTHdSKkc132-HyDlzZnDwU2gRUyUepSQL1RbCwKpAY3AokvdtupuD7eMThLZLyZbEOO9swllRqRYH7O2sZpBf_n-Od_A3nxf4a7FCAo9p4IzxrLkMrSm-fRT_egZz-ebim--5KV-TU033YGVeAkOUvVnsc_2kweU2X8-0339xSnsiKcT8uvJ9lafdszDYOACHxjEjFNHZ7j81k4CjDicLIk7ZgyoliVqvDVxs="
     },
     "GITHUB_ACCESS_TOKEN": {
       "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
@@ -41,7 +41,7 @@
     },
     "GIT_REPO_NAME": {
       "description": "Your repo name Example: Total-Noob-69/X-Tra-Telegram, but GITHUB_ACCESS_TOKEN must be setup first.",
-      "value": "",
+      "value": "cyberman-x/ tyuiop",
       "required": false
     },
     "LYDIA_API_KEY": {
